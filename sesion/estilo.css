@@ -1,0 +1,106 @@
+* {
+        background-color: rgb(255, 255, 255 );
+}
+
+
+
+h1 {
+        text-align: center;
+        color: rgb(224, 28, 33);
+	font-family: aharoni,verdana;
+        font-size: all;
+        background-color: rgb(255, 255, 255);
+}
+
+
+#menu {
+
+        margin: 30px,20px,17px,200px;
+        background-color:rgb(224, 28, 33);
+}
+
+#menu ul {
+        margin: 0;
+        padding:0;
+}
+#menu li {
+        float:right;
+}
+#menu a {
+        color: rgb(68, 76, 247);
+        background: rgb(68, 76, 247);
+        padding: 3px 10px;
+        display: block;
+        border: 5px solid red;
+        border-color: rgb(224, 28, 33);
+        border-width: 5px 5px 2px 2px;
+}
+.selec {
+        font-family: candara,Times,serif;
+        font-size: 1.5em; 
+        font-weight: bold;
+}
+
+#menu a:hover {
+        color:  rgb(128, 0, 0);
+        background-color: rgb(224, 28, 33);
+}
+
+#menu a:active {
+        color: brown;
+}
+
+.formulario{
+        background-color: rgb(68, 76, 247);
+        margin-top: 100px;
+        padding: 20px;
+   
+}
+.contenedor{
+
+        background-color: rgb(68, 76, 247);
+        padding: 20px;
+        margin-bottom: 20px;
+        text-align: center;
+        font-size: all;
+        text-anchor: all;
+}
+
+input[type = "text"]{
+        font-size: 30px;
+        border: solid #E01C21 5px
+}
+.button{
+        min-width: 60px;
+        text-align: center;
+        color: white;
+        font-size: 30px;
+        background:#E01C21;
+        padding: 20px 20px;
+        border-radius: 5px;
+        cursor: progress;
+}
+
+
+h2 {
+        text-align: center;
+        color: rgb(255, 255, 255);
+        font-family: aharoni,verdana;
+        font-size: 3em;
+        background-color: rgb(33, 66, 134);
+        font-family: aharoni,verdana;
+        font-weight: bold;
+}
+
+h3 {
+        color: rgb(0, 0, 102);
+        font-family: aharoni,verdana;
+        font-weight: normal;
+}
+
+
+
+
+
+
+   
